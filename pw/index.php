@@ -17,13 +17,12 @@ $buku = query("SELECT * FROM buku");
 
   <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-700">
     <div class="container flex flex-wrap justify-between items-center mx-auto" bis_skin_checked="1">
-      <h1 class=" font-bold text-6xl text-center text-white">Fiuls Comic</h1>
+      <h1 class=" font-bold text-6xl text-center text-white">Fiuls Comic's</h1>
       <div class="hidden w-full md:block md:w-auto" id="navbar-default" bis_skin_checked="1">
         <a class="font-bold text-xl text-center text-white " href="php/admin.php">Admin Page</a>
       </div>
     </div>
   </nav>
-
   <div class="w-full dark:bg-gray-500">
     <div class="container">
       <div class="w-full pl-16 lg:pl-72 lg:pr-12 mt-8 grid sm:grid-cols-1 lg:grid-cols-4 gap-12 gap-x-52">
